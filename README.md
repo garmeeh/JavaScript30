@@ -13,7 +13,7 @@ of the tutorials and just try get them done but take my time and explore the par
 ## The Challenges
 
 1. [X] JavaScript Drum Kit
-2. [ ] JS + CSS Clock
+2. [X] JS + CSS Clock
 3. [ ] CSS Variables
 4. [ ] Array Cardio (Day 1)
 5. [ ] Flex Panel Gallery
