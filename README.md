@@ -14,7 +14,7 @@ of the tutorials and just try get them done but take my time and explore the par
 
 1. [X] JavaScript Drum Kit
 2. [X] JS + CSS Clock
-3. [ ] CSS Variables
+3. [X] CSS Variables
 4. [ ] Array Cardio (Day 1)
 5. [ ] Flex Panel Gallery
 6. [ ] Type Ahead
