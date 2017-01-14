@@ -17,7 +17,7 @@ of the tutorials and just try get them done but take my time and explore the par
 3. [X] CSS Variables
 4. [X] Array Cardio (Day 1)
 5. [X] Flex Panel Gallery
-6. [ ] Type Ahead
+6. [X] Type Ahead
 7. [ ] Array Cardio (Day 2)
 8. [ ] Fun with HTML5 Canvas
 9. [ ] Dev Tools Domination
