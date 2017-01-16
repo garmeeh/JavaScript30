@@ -20,7 +20,7 @@ of the tutorials and just try get them done but take my time and explore the par
 6. [X] Type Ahead
 7. [X] Array Cardio (Day 2)
 8. [X] Fun with HTML5 Canvas
-9. [ ] Dev Tools Domination
+9. [X] Dev Tools Domination
 10. [ ] Hold Shift and Check Checkboxes
 11. [ ] Custom Video Player
 12. [ ] Key Sequence Detection
