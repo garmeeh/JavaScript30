@@ -21,7 +21,7 @@ of the tutorials and just try get them done but take my time and explore the par
 7. [X] Array Cardio (Day 2)
 8. [X] Fun with HTML5 Canvas
 9. [X] Dev Tools Domination
-10. [ ] Hold Shift and Check Checkboxes
+10. [X] Hold Shift and Check Checkboxes (Added Uncheck)
 11. [ ] Custom Video Player
 12. [ ] Key Sequence Detection
 13. [ ] Slide in on Scroll
