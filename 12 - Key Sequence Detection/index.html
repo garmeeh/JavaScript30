@@ -7,6 +7,16 @@
 </head>
 <body>
 <script>
+let pressed = [];
+const theCode = 'robyn';
+
+window.addEventListener('keyup', (e) => {
+  pressed.push(e.key);
+  pressed.splice(-theCode.length - 1, pressed.length - theCode.length);
+  if (pressed.join('').includes(theCode)) {
+    cornify_add();
+  }
+});
 </script>
 </body>
 </html>
