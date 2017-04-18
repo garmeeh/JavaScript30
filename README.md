@@ -24,7 +24,7 @@ of the tutorials and just try get them done but take my time and explore the par
 10. [X] Hold Shift and Check Checkboxes (Added Uncheck)
 11. [X] Custom Video Player
 12. [X] Key Sequence Detection
-13. [ ] Slide in on Scroll
+13. [X] Slide in on Scroll
 14. [ ] JavaScript References VS Copying
 15. [ ] LocalStorage
 16. [ ] Mouse Move Shadow
