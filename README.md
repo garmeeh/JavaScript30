@@ -25,7 +25,7 @@ of the tutorials and just try get them done but take my time and explore the par
 11. [X] Custom Video Player
 12. [X] Key Sequence Detection
 13. [X] Slide in on Scroll
-14. [ ] JavaScript References VS Copying
+14. [X] JavaScript References VS Copying
 15. [ ] LocalStorage
 16. [ ] Mouse Move Shadow
 17. [ ] Sort Without Articles
