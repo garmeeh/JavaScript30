@@ -27,7 +27,7 @@ of the tutorials and just try get them done but take my time and explore the par
 13. [X] Slide in on Scroll
 14. [X] JavaScript References VS Copying
 15. [X] LocalStorage
-16. [ ] Mouse Move Shadow
+16. [X] Mouse Move Shadow
 17. [ ] Sort Without Articles
 18. [ ] Adding Up Times with Reduce
 19. [ ] Webcam Fun
